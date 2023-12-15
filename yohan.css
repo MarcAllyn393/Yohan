@@ -1,0 +1,34 @@
+html {
+    border-collapse: collapse;
+    witdh: 560px;
+    background_color: blue;
+    padding: 3px;
+    font-size: 14px
+    
+}
+li{
+    text-decoration: none;
+    color: #333;
+    margin-right: 15px;
+    font-weight: 400;
+    padding: 14px 40px;
+    color: #fff;
+    background-color: red;
+    font-weight: 14px;
+    border-radius: 30px;
+    
+}
+dl{
+    text-decoration: none;
+    color: #333;
+    margin-right: 15px;
+    font-weight: 400;
+    padding: 14px 40px;
+    color: #fff;
+    background-image: linear-gradient(45deg, darkblue, lightblue);
+    font-weight: 14px;
+    border-radius: 30px;
+    background-color: green;
+    
+}
+
